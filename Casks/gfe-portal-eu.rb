@@ -1,6 +1,6 @@
 cask "gfe-portal-eu" do
-  version "1.0.68"
-  sha256 "c4b17a0a340f67c60dd5d6fee415cfaa64dcc45d4c323a3c3f9e309c014f3885"
+  version "1.0.69"
+  sha256 "af793a4f62c3487591c52498768100c1f404ec935e17863c9ce5c1f1de5b1758"
 
   url "https://github.com/GF-Elektro/Portal-App/releases/download/v#{version}/GFElektroPortal-#{version}.dmg"
   name "G&F Portal EU"
